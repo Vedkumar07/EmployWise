@@ -1,10 +1,10 @@
 # EmployWise User Management Application
 
 ## Project Overview
-This is a React-based user management application that integrates with the Reqres API to perform basic user operations including authentication, listing, editing, and deleting users.
+This is a React-based user management application that integrates with the Reqres API to perform basic user operations including authentication, editing, and deleting users,client-side search and filtering.
 
 ## Deployment
-The application can be deployed to platforms like Netlify, Vercel, or Heroku with minimal configuration.
+employ-wise-five.vercel.app
 
 ## Features
 - User Authentication
@@ -20,6 +20,11 @@ The application can be deployed to platforms like Netlify, Vercel, or Heroku wit
 - Axios
 - Tailwind CSS
 - Reqres API
+
+## Bonus Points Covered:
+- ✅ Implemented client-side search and filtering on the users' list.
+- ✅ Used React Router for navigation between pages (Login, User List, Edit User).
+- ✅ Hosted on a free server (Vercel).
 
 ## Prerequisites
 - Node.js (v14 or later)
