@@ -42,9 +42,7 @@ yarn install
 
 3. Start the development server
 ```bash
-npm start
-# or
-yarn start
+npm run dev
 ```
 
 ## Authentication Credentials
