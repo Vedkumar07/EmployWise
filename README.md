@@ -25,9 +25,6 @@ This is a React-based user management application that integrates with the Reqre
 - ✅ Used React Router for navigation between pages (Login, User List, Edit User).
 - ✅ Hosted on a free server (Vercel).
 
-## Prerequisites
-- Node.js 
-
 ## Installation
 
 1. Clone the repository
