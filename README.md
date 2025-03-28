@@ -3,6 +3,9 @@
 ## Project Overview
 This is a React-based user management application that integrates with the Reqres API to perform basic user operations including authentication, listing, editing, and deleting users.
 
+## Deployment
+The application can be deployed to platforms like Netlify, Vercel, or Heroku with minimal configuration.
+
 ## Features
 - User Authentication
 - Paginated User Listing
@@ -26,8 +29,8 @@ This is a React-based user management application that integrates with the Reqre
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/employwise-user-management.git
-cd employwise-user-management
+git clone https://github.com/Vedkumar07/EmployWise.git
+cd EmployWise
 ```
 
 2. Install dependencies
@@ -48,22 +51,5 @@ yarn start
 - Email: eve.holt@reqres.in
 - Password: cityslicka
 
-## Deployment
-The application can be deployed to platforms like Netlify, Vercel, or Heroku with minimal configuration.
-
-## Known Limitations
-- Uses mock API (Reqres) for demonstration
-- Basic error handling
-- No advanced state management
-
-## Future Improvements
-- Implement more robust error handling
-- Add client-side search and filtering
-- Enhance UI/UX
-- Add form validation
-
-## License
-MIT License
-
 ## Contact
-Your Name - your.email@example.com
+Ved Kumar - kmdeep567@gmail.com
