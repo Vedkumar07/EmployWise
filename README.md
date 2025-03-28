@@ -26,8 +26,7 @@ This is a React-based user management application that integrates with the Reqre
 - ✅ Hosted on a free server (Vercel).
 
 ## Prerequisites
-- Node.js (v14 or later)
-- npm or yarn
+- Node.js 
 
 ## Installation
 
