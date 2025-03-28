@@ -3,8 +3,7 @@
 ## Project Overview
 This is a React-based user management application that integrates with the Reqres API to perform basic user operations including authentication, editing, and deleting users,client-side search and filtering.
 
-## Deployment
-employ-wise-five.vercel.app
+🔗 **Live Demo:** [https://employ-wise-five.vercel.app](https://employ-wise-five.vercel.app)
 
 ## Features
 - User Authentication
